@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    
+
+  }
+  #instruction {
+    color: green;
+    position: absolute;
+    top: 0%;
+    left: 38%;
+  }
+#score {
+    color: green;
+    position: absolute;
+    top: 8%;
+    left: 20%;
+  }
+#grid {
+    width: 552px;
+    height: 504px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 14%;
+    left: 25%;
+}
